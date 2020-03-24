@@ -1,0 +1,7 @@
+{
+  "name": "Kanika",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
