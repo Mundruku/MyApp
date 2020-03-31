@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import {Ng2TelInputModule} from 'ng2-tel-input';
 
 @Component({
   selector: 'app-car-login',
@@ -10,5 +11,7 @@ export class CarLoginComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {}
+
+
 
 }

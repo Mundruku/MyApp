@@ -33,13 +33,17 @@
             ],
             "styles": [
               {
+                
                 "input": "src/theme/variables.scss"
+              
               },
               {
                 "input": "src/global.scss"
               }
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/intl-tel-input/build/js/intlTelInput.min.js"
+            ]
           },
           "configurations": {
             "production": {
